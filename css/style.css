@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:regular,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lora:regular,700display=swap");
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style-type: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+body {
+	font-family: "Open Sans";
+}
+ul {
+	font-family: "Lora";
+}
+
+h1 {
+	font-size: 30px;
+}
+h1 span {
+	color: green;
+	font-weight: 700;
+}
+h2 {
+	font-size: 25px;
+	font-weight: bold;
+}
+section img {
+	width: 800px;
+}
+
+section li {
+	color: gray;
+	font-size: 20px;
+}
+section li span {
+	color: rebeccapurple;
+}
+li a {
+	font-size: 20px;
+	color: palevioletred;
+}
+.violet {
+	color: violet;
+	font-size: 30px;
+}
+.green {
+	color: teal;
+	font-size: 20px;
+}
+.blue {
+	color: blue;
+	font-size: 15px;
+}
